@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\bin\Debug\Grafiken.exe.config
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\bin\Debug\Grafiken.exe
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\bin\Debug\Grafiken.pdb
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.Form1.resources
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.exe
+C:\Users\User\Documents\C#Programme\Grafiken\Grafiken\obj\Debug\Grafiken.pdb

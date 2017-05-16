@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\bin\Debug\Einsatz von Eigenschaften.exe.config
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\bin\Debug\Einsatz von Eigenschaften.exe
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\bin\Debug\Einsatz von Eigenschaften.pdb
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\obj\Debug\Einsatz von Eigenschaften.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\obj\Debug\Einsatz von Eigenschaften.exe
+C:\Users\User\Documents\C#Programme\Einsatz von Eigenschaften\Einsatz von Eigenschaften\obj\Debug\Einsatz von Eigenschaften.pdb

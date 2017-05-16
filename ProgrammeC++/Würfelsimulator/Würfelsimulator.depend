@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430931578 source:c:\users\user\documents\programmec++\würfelsimulator\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

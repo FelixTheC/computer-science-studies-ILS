@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\bin\Debug\Spielereien.exe.config
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\bin\Debug\Spielereien.exe
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\bin\Debug\Spielereien.pdb
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.Form1.resources
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.exe
+C:\Users\User\Documents\C#Programme\Spielereien\Spielereien\obj\Debug\Spielereien.pdb

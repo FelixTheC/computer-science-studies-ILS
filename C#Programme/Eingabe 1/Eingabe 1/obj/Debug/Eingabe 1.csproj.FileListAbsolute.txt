@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\bin\Debug\Eingabe 1.exe.config
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\bin\Debug\Eingabe 1.exe
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\bin\Debug\Eingabe 1.pdb
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\obj\Debug\Eingabe 1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\obj\Debug\Eingabe 1.exe
+C:\Users\User\Documents\C#Programme\Eingabe 1\Eingabe 1\obj\Debug\Eingabe 1.pdb

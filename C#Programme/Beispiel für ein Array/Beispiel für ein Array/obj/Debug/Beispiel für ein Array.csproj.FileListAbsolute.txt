@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\bin\Debug\Beispiel für ein Array.exe.config
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\bin\Debug\Beispiel für ein Array.exe
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\bin\Debug\Beispiel für ein Array.pdb
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\obj\Debug\Beispiel für ein Array.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\obj\Debug\Beispiel für ein Array.exe
+C:\Users\User\Documents\C#Programme\Beispiel für ein Array\Beispiel für ein Array\obj\Debug\Beispiel für ein Array.pdb

@@ -1,0 +1,10 @@
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\bin\Debug\MiniWebBrowser.exe.config
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\bin\Debug\MiniWebBrowser.exe
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\bin\Debug\MiniWebBrowser.pdb
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.Form1.resources
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.exe
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.pdb
+C:\Users\User\Documents\C#Programme\MiniWebBrowser\MiniWebBrowser\obj\Debug\MiniWebBrowser.URLOeffnenDialog.resources

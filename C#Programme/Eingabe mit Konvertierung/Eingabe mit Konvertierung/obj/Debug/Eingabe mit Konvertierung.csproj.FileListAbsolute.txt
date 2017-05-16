@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\bin\Debug\Eingabe mit Konvertierung.exe.config
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\bin\Debug\Eingabe mit Konvertierung.exe
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\bin\Debug\Eingabe mit Konvertierung.pdb
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\obj\Debug\Eingabe mit Konvertierung.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\obj\Debug\Eingabe mit Konvertierung.exe
+C:\Users\User\Documents\C#Programme\Eingabe mit Konvertierung\Eingabe mit Konvertierung\obj\Debug\Eingabe mit Konvertierung.pdb

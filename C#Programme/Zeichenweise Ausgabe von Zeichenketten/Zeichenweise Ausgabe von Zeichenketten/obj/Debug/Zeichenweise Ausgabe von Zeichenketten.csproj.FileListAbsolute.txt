@@ -1,0 +1,5 @@
+C:\Users\User\Documents\C#Programme\Zeichenweise Ausgabe von Zeichenketten\Zeichenweise Ausgabe von Zeichenketten\bin\Debug\Zeichenweise Ausgabe von Zeichenketten.exe.config
+C:\Users\User\Documents\C#Programme\Zeichenweise Ausgabe von Zeichenketten\Zeichenweise Ausgabe von Zeichenketten\bin\Debug\Zeichenweise Ausgabe von Zeichenketten.exe
+C:\Users\User\Documents\C#Programme\Zeichenweise Ausgabe von Zeichenketten\Zeichenweise Ausgabe von Zeichenketten\bin\Debug\Zeichenweise Ausgabe von Zeichenketten.pdb
+C:\Users\User\Documents\C#Programme\Zeichenweise Ausgabe von Zeichenketten\Zeichenweise Ausgabe von Zeichenketten\obj\Debug\Zeichenweise Ausgabe von Zeichenketten.exe
+C:\Users\User\Documents\C#Programme\Zeichenweise Ausgabe von Zeichenketten\Zeichenweise Ausgabe von Zeichenketten\obj\Debug\Zeichenweise Ausgabe von Zeichenketten.pdb

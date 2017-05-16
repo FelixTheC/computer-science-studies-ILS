@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\bin\Debug\Arbeiten mit der Methode Init.exe.config
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\bin\Debug\Arbeiten mit der Methode Init.exe
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\bin\Debug\Arbeiten mit der Methode Init.pdb
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\obj\Debug\Arbeiten mit der Methode Init.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\obj\Debug\Arbeiten mit der Methode Init.exe
+C:\Users\User\Documents\C#Programme\Arbeiten mit der Methode Init\Arbeiten mit der Methode Init\obj\Debug\Arbeiten mit der Methode Init.pdb

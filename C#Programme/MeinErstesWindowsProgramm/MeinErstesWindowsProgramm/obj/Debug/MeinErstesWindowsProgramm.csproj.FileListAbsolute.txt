@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\bin\Debug\MeinErstesWindowsProgramm.exe.config
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\bin\Debug\MeinErstesWindowsProgramm.exe
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\bin\Debug\MeinErstesWindowsProgramm.pdb
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.Form1.resources
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.exe
+C:\Users\User\Documents\C#Programme\MeinErstesWindowsProgramm\MeinErstesWindowsProgramm\obj\Debug\MeinErstesWindowsProgramm.pdb

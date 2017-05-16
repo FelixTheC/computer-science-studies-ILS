@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433692126 source:c:\users\user\documents\programmec++\testimit9\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<algorithm>
+

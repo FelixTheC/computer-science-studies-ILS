@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1432407688 source:c:\users\user\documents\programmec++\vectorsortierung\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<cstdlib>
+	<ctime>
+

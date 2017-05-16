@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\bin\Debug\Eine Struktur im Einsatz.exe.config
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\bin\Debug\Eine Struktur im Einsatz.exe
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\bin\Debug\Eine Struktur im Einsatz.pdb
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\obj\Debug\Eine Struktur im Einsatz.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\obj\Debug\Eine Struktur im Einsatz.exe
+C:\Users\User\Documents\C#Programme\Eine Struktur im Einsatz\Eine Struktur im Einsatz\obj\Debug\Eine Struktur im Einsatz.pdb

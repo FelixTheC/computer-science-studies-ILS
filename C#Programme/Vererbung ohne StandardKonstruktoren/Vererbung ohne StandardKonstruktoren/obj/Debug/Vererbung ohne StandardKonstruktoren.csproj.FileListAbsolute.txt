@@ -1,0 +1,2 @@
+C:\Users\User\Documents\C#Programme\Vererbung ohne StandardKonstruktoren\Vererbung ohne StandardKonstruktoren\bin\Debug\Vererbung ohne StandardKonstruktoren.exe.config
+C:\Users\User\Documents\C#Programme\Vererbung ohne StandardKonstruktoren\Vererbung ohne StandardKonstruktoren\obj\Debug\Vererbung ohne StandardKonstruktoren.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\bin\Debug\CsHp4B2.exe.config
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\bin\Debug\CsHp4B2.exe
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\bin\Debug\CsHp4B2.pdb
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\obj\Debug\CsHp4B2.exe
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\obj\Debug\CsHp4B2.pdb
+C:\Users\User\Documents\C#Programme\CsHp4B2\CsHp4B2\obj\Debug\CsHp4B2.csprojResolveAssemblyReference.cache

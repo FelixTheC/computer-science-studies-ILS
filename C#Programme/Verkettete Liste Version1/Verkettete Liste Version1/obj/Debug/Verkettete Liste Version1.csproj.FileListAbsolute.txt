@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\bin\Debug\Verkettete Liste Version1.exe.config
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\bin\Debug\Verkettete Liste Version1.exe
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\bin\Debug\Verkettete Liste Version1.pdb
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\obj\Debug\Verkettete Liste Version1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\obj\Debug\Verkettete Liste Version1.exe
+C:\Users\User\Documents\C#Programme\Verkettete Liste Version1\Verkettete Liste Version1\obj\Debug\Verkettete Liste Version1.pdb

@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\bin\Debug\Debuggen2.exe.config
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\bin\Debug\Debuggen2.exe
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\bin\Debug\Debuggen2.pdb
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\obj\Debug\Debuggen2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\obj\Debug\Debuggen2.exe
+C:\Users\User\Documents\C#Programme\Debuggen2\Debuggen2\obj\Debug\Debuggen2.pdb

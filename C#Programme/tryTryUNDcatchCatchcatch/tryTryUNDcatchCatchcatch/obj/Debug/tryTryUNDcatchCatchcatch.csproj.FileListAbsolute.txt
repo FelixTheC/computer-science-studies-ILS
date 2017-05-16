@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\bin\Debug\tryTryUNDcatchCatchcatch.exe.config
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.Form1.resources
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\bin\Debug\tryTryUNDcatchCatchcatch.exe
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\bin\Debug\tryTryUNDcatchCatchcatch.pdb
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.exe
+C:\Users\User\Documents\C#Programme\tryTryUNDcatchCatchcatch\tryTryUNDcatchCatchcatch\obj\Debug\tryTryUNDcatchCatchcatch.pdb

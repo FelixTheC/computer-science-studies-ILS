@@ -1,0 +1,5 @@
+C:\Users\User\Documents\C#Programme\eine unechte kopie Array\eine unechte kopie Array\bin\Debug\eine unechte kopie Array.exe.config
+C:\Users\User\Documents\C#Programme\eine unechte kopie Array\eine unechte kopie Array\bin\Debug\eine unechte kopie Array.exe
+C:\Users\User\Documents\C#Programme\eine unechte kopie Array\eine unechte kopie Array\bin\Debug\eine unechte kopie Array.pdb
+C:\Users\User\Documents\C#Programme\eine unechte kopie Array\eine unechte kopie Array\obj\Debug\eine unechte kopie Array.exe
+C:\Users\User\Documents\C#Programme\eine unechte kopie Array\eine unechte kopie Array\obj\Debug\eine unechte kopie Array.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\bin\Debug\CSHP 7B7.3.exe.config
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\bin\Debug\CSHP 7B7.3.exe
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\bin\Debug\CSHP 7B7.3.pdb
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP 7B7.3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP_7B7._3.Form1.resources
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP_7B7._3.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP 7B7.3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP 7B7.3.exe
+C:\Users\User\Documents\C#Programme\CSHP 7B7.3\CSHP 7B7.3\obj\Debug\CSHP 7B7.3.pdb

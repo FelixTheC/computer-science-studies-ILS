@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\bin\Debug\CSHP 2B2.1.exe.config
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\bin\Debug\CSHP 2B2.1.exe
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\bin\Debug\CSHP 2B2.1.pdb
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\obj\Debug\CSHP 2B2.1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\obj\Debug\CSHP 2B2.1.exe
+C:\Users\User\Documents\C#Programme\CSHP 2B2.1\CSHP 2B2.1\obj\Debug\CSHP 2B2.1.pdb

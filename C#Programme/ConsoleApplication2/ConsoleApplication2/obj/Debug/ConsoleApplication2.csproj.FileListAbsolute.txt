@@ -1,0 +1,13 @@
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\mscorlib.dll
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\de\mscorlib.resources.dll
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\normidna.nlp
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfc.nlp
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfd.nlp
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkc.nlp
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\bin\Debug\normnfkd.nlp
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\User\Documents\C#Programme\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

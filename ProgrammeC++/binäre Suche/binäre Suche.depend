@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1433691491 source:c:\users\user\documents\programmec++\binäre suche\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<vector>
+	<algorithm>
+

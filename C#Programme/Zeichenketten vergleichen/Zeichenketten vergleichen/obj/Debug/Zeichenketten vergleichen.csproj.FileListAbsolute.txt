@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\bin\Debug\Zeichenketten vergleichen.exe.config
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\bin\Debug\Zeichenketten vergleichen.exe
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\bin\Debug\Zeichenketten vergleichen.pdb
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\obj\Debug\Zeichenketten vergleichen.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\obj\Debug\Zeichenketten vergleichen.exe
+C:\Users\User\Documents\C#Programme\Zeichenketten vergleichen\Zeichenketten vergleichen\obj\Debug\Zeichenketten vergleichen.pdb

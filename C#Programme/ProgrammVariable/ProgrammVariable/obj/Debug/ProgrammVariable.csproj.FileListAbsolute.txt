@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\bin\Debug\ProgrammVariable.exe.config
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\bin\Debug\ProgrammVariable.exe
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\bin\Debug\ProgrammVariable.pdb
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\obj\Debug\ProgrammVariable.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\obj\Debug\ProgrammVariable.exe
+C:\Users\User\Documents\C#Programme\ProgrammVariable\ProgrammVariable\obj\Debug\ProgrammVariable.pdb

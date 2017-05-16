@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\bin\Debug\Mit KMethodenUKVariablen.exe.config
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\bin\Debug\Mit KMethodenUKVariablen.exe
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\bin\Debug\Mit KMethodenUKVariablen.pdb
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\obj\Debug\Mit KMethodenUKVariablen.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\obj\Debug\Mit KMethodenUKVariablen.exe
+C:\Users\User\Documents\C#Programme\Mit KMethodenUKVariablen\Mit KMethodenUKVariablen\obj\Debug\Mit KMethodenUKVariablen.pdb

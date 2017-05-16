@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\bin\Debug\CSHB 2B2.4.exe.config
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\obj\Debug\CSHB 2B2.4.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\bin\Debug\CSHB 2B2.4.exe
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\bin\Debug\CSHB 2B2.4.pdb
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\obj\Debug\CSHB 2B2.4.exe
+C:\Users\User\Documents\C#Programme\CSHB 2B2.4\CSHB 2B2.4\obj\Debug\CSHB 2B2.4.pdb

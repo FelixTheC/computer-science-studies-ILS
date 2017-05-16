@@ -1,0 +1,10 @@
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\bin\Debug\Bildbetrachter.exe.config
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\bin\Debug\Bildbetrachter.exe
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\bin\Debug\Bildbetrachter.pdb
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.Form1.resources
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.exe
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.pdb
+C:\Users\User\Documents\C#Programme\Bildbetrachter\Bildbetrachter\obj\Debug\Bildbetrachter.FormMax.resources

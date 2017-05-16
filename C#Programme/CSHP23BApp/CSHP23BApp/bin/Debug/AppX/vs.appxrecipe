@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APPENTWICKLUNG</Machine>
+    <WindowsUser>Flix</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E76733DD03150DBED01922AA6EBAF240413577E1B60470344D9D571541B4BBB2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>28918872-7f2c-422d-b94e-b4cd995088a5_1.1.0.0_neutral__zyq23c7mkyh5t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>28918872-7f2c-422d-b94e-b4cd995088a5_zyq23c7mkyh5t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>28918872-7f2c-422d-b94e-b4cd995088a5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Flix</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-25T16:28:56.941</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\CSHP23BApp.exe">
+      <PackagePath>CSHP23BApp.exe</PackagePath>
+      <Modified>2015-10-25T16:28:56.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\CSHP23BApp.pdb">
+      <PackagePath>CSHP23BApp.pdb</PackagePath>
+      <Modified>2015-10-25T16:28:56.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T21:17:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-10-25T09:46:45.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2015-10-25T09:45:41.431</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2015-10-25T10:17:55.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-07-26T18:24:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Flix\Documents\Visual Studio 2012\Projects\CSHP23BApp\CSHP23BApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-10-25T16:28:56.847</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

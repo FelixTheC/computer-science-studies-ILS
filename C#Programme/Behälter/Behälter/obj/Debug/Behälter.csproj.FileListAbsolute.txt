@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\bin\Debug\Behälter.exe.config
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\obj\Debug\Behälter.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\bin\Debug\Behälter.exe
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\bin\Debug\Behälter.pdb
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\obj\Debug\Behälter.exe
+C:\Users\User\Documents\C#Programme\Behälter\Behälter\obj\Debug\Behälter.pdb

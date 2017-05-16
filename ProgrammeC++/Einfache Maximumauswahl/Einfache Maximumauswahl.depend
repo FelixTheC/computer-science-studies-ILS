@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1432405108 source:/media/felix/Windows7_OS/Users/User/Documents/ProgrammeC++/Einfache Maximumauswahl/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

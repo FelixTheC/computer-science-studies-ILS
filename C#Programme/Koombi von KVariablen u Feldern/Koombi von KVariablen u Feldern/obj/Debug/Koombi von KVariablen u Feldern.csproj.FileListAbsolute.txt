@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\bin\Debug\Koombi von KVariablen u Feldern.exe.config
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\bin\Debug\Koombi von KVariablen u Feldern.exe
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\bin\Debug\Koombi von KVariablen u Feldern.pdb
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\obj\Debug\Koombi von KVariablen u Feldern.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\obj\Debug\Koombi von KVariablen u Feldern.exe
+C:\Users\User\Documents\C#Programme\Koombi von KVariablen u Feldern\Koombi von KVariablen u Feldern\obj\Debug\Koombi von KVariablen u Feldern.pdb

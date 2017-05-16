@@ -1,0 +1,5 @@
+C:\Users\User\Documents\C#Programme\Zeichenketten verändern\Zeichenketten verändern\bin\Debug\Zeichenketten verändern.exe.config
+C:\Users\User\Documents\C#Programme\Zeichenketten verändern\Zeichenketten verändern\bin\Debug\Zeichenketten verändern.exe
+C:\Users\User\Documents\C#Programme\Zeichenketten verändern\Zeichenketten verändern\bin\Debug\Zeichenketten verändern.pdb
+C:\Users\User\Documents\C#Programme\Zeichenketten verändern\Zeichenketten verändern\obj\Debug\Zeichenketten verändern.exe
+C:\Users\User\Documents\C#Programme\Zeichenketten verändern\Zeichenketten verändern\obj\Debug\Zeichenketten verändern.pdb

@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\bin\Debug\Graphis Übung1.exe.config
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\bin\Debug\Graphis Übung1.exe
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\bin\Debug\Graphis Übung1.pdb
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis Übung1.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis_Übung1.Form1.resources
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis_Übung1.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis Übung1.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis Übung1.exe
+C:\Users\User\Documents\C#Programme\Graphis Übung1\Graphis Übung1\obj\Debug\Graphis Übung1.pdb

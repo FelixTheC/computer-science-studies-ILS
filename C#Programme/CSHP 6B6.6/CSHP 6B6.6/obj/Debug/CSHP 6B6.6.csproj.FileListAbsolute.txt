@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\bin\Debug\CSHP 6B6.6.exe.config
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\bin\Debug\CSHP 6B6.6.exe
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\bin\Debug\CSHP 6B6.6.pdb
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\obj\Debug\CSHP 6B6.6.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\obj\Debug\CSHP 6B6.6.exe
+C:\Users\User\Documents\C#Programme\CSHP 6B6.6\CSHP 6B6.6\obj\Debug\CSHP 6B6.6.pdb

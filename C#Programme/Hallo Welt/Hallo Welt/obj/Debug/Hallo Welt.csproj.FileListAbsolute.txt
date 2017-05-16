@@ -1,0 +1,9 @@
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.exe.config
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.exe
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\bin\Debug\Hallo Welt.pdb
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo_Welt.Form1.resources
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo_Welt.Properties.Resources.resources
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.csproj.GenerateResource.Cache
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.exe
+C:\Users\User\Documents\C#Programme\Hallo Welt\Hallo Welt\obj\Debug\Hallo Welt.pdb

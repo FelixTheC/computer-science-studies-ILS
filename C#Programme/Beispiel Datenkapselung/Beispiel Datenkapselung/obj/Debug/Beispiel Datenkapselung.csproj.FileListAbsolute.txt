@@ -1,0 +1,6 @@
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\bin\Debug\Beispiel Datenkapselung.exe.config
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\bin\Debug\Beispiel Datenkapselung.exe
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\bin\Debug\Beispiel Datenkapselung.pdb
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\obj\Debug\Beispiel Datenkapselung.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\obj\Debug\Beispiel Datenkapselung.exe
+C:\Users\User\Documents\C#Programme\Beispiel Datenkapselung\Beispiel Datenkapselung\obj\Debug\Beispiel Datenkapselung.pdb
