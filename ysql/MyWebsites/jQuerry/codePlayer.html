@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Learning jQuerry</title>
+	<style>
+		body{
+			font-family:helvetica, Arial, Sans-Serif;
+			margin: 0;
+			padding: 0;
+		}	
+	
+		#menubar{
+			width:100%;
+			height:50px;
+			background-color:#e0e0e0;
+			border-bottom:1px solid grey;
+		}
+		
+		#logo{
+			padding:10px;
+			font-weight:bold;
+			float: left;
+		}
+		
+		#buttonDiv{
+			float: right;
+			padding: 5px 10px 0 0;
+		}
+		
+		#run{
+			font-size: 120%;			
+		}
+		
+		#toggles{
+			width:194px;
+			margin:0 auto;
+			list-style:none;
+			border:1px solid grey;
+			border-radius:3px;
+			height:30px;
+			padding:0;
+			positon:relative;
+			top:5px;
+		}
+		
+		#toggles li{
+			float:left;
+			border-right:1px solid grey;
+			padding:6px 4px;
+		}
+		
+		.clear{
+			clear:both;
+		}
+		
+		.codeContainer{
+			height:100%;
+			width:50%;
+			float:left;
+			position:relative;
+		}
+		
+		.codeContainer textarea{
+			width:100%;
+			height:100%;
+			border:none;
+			border-right: 1px solid grey;
+			box-sizing:border-box;
+			font-family:monotype;
+			font-size:1.4em;
+			padding:12px;
+		}
+		
+		.codeLabel {
+			position:absolute;
+			right:10px;
+			top:5px;
+		}
+		
+		#CSSContainer, #JSContainer {
+			display:none;
+			}
+			
+		iframe{
+			height:100%;
+			width:100%;
+			position:relative;
+			left:20px;
+			border:none;
+			padding:10px;
+		}
+		
+		.selected {
+			background-color:grey;
+		}
+		
+	</style>
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min.js"></script>
+	
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+</head>
+<body>
+		<div id="wrapper">
+			<div id="menubar">
+				<div id="logo">
+					CodePlayer
+				</div>
+				
+				<div id="buttonDiv">
+					<button id="run">Run</button>
+				</div>
+				
+				<ul id="toggles">
+					<li class="toggle selected">HTML</li>
+					<li class="toggle">CSS</li>
+					<li class="toggle">JS</li>
+					<li  class="toggle selected" style="border:none">RESULT</li>				
+				</ul>
+			
+			</div>
+		<div class="clear"></div>
+		<div class="codeContainer" id="HTMLContainer">
+			<div class="codeLabel">HTML</div>
+				<textarea id="htmlCode"><div id="test"></div></textarea>		
+		</div>
+		
+		<div class="codeContainer" id="CSSContainer">
+			<div class="codeLabel">CSS</div>
+				<textarea id="cssCode">html {background-color:blue}</textarea>		
+		</div>
+		
+		<div class="codeContainer" id="JSContainer">
+			<div class="codeLabel">JS</div>
+				<textarea id="jsCode">document.getElementById("test").innerHTML="It's work";</textarea>		
+		</div>
+		
+		<div class="codeContainer" id="RESULTContainer">
+			<div class="codeLabel">Result</div>
+				<iframe id="resultFrame">Result</iframe>		
+		</div>
+		
+		</div>
+			
+		
+	<script>
+	
+		var windowHeight=$(window).height();
+		var menuHeight = $("#menubar").height();
+		
+		var codeContainerHeight = windowHeight-menuHeight;
+		$(".codeContainer").height(codeContainerHeight+"px");
+
+		$(".toggle").click(function() {
+			$(this).toggleClass("selected");
+			
+			var activeDiv=$(this).html();
+			
+			$("#"+activeDiv+"Container").toggle();
+			
+			var showingDivs=$(".codeContainer").filter(function() {
+				return($(this).css("display")!="none");
+			}).length;
+			
+			var width=100/showingDivs;
+			
+			$(".codeContainer").width(width+"%");
+			
+		});	
+		
+		$("#run").click(function() {
+		
+			$("iframe").contents().find("html").html('<style>'+$("#cssCode").val()+'</style>'+$("#htmlCode").val());
+				
+				//eval nicht im öffentlichen Netz verwenden nur für den Privaten bereich im 
+				//geschlossenen Netzwerk
+				
+				document.getElementById("resultFrame").contentWindow.eval($("#jsCode").val());
+		});
+		
+	</script>
+	
+</body>
+</html>

@@ -1,0 +1,190 @@
+	body {
+		margin:0;
+		font-family:arial,helvetica,sans-serif;
+	}
+	#topbar {
+		background:#7A0000;
+		width:100%;
+		height:43px;
+		color: #FFFFFF;
+	}
+	.fixedwidth {
+		width:1200px;
+		margin:0 auto;
+	}
+	
+	#logo {
+		padding-top:5px;
+		float: left;
+		border-right: 1px solid #990000;
+		padding-right: 10px;
+		}
+	
+	#signin{
+		font-weight:bold;
+		padding:6px 80px 10px 20px;
+		font-size:0.9em;
+		float:left;
+		border-right:1px solid #990000;		
+	}
+	
+	#signin img {
+		position:relativ;
+		top:5px;
+		}
+	
+	#topmenudiv {
+		float:left;
+	}
+	
+	#topmenudiv ul {
+		margin:0;
+		padding:0;
+	}
+	
+	#topmenudiv li{
+		list-style:none;
+		font-weight:bold;
+		font-size:0.9em;
+		border-right:1px solid #990000;
+		height: 100%;
+		padding: 10px 20px 10px 20px;
+		float:left;
+		}
+		
+	#searchdiv {
+		float:left;
+		padding:5px;
+		}
+		
+	#searchdiv input {
+		height: 25px;
+		border:none;
+		padding:3px;
+		font-size:1.2em;
+		color:black;
+	}
+	
+	.break {
+		clear: both;
+		}
+	
+	#newsbar {
+		background:#BB1919;
+		width:100%;
+		height:85px;
+		color: #BB1919;
+	}
+	
+	#newsbar p{
+		margin: 0;
+		padding: 0;
+		color:white;
+		float: left;
+	}
+	
+	#newsheader{
+		font-size:26px;
+		padding-top:15px;
+		}
+	
+	#uk {
+		font-size:20px;
+		padding-left:5px;
+		}
+		
+	#rss {
+		float:right;
+		margin-top: 25px;
+		color:white;
+		}
+		
+	#rss image{
+		height: 10px;
+	}
+	
+	#topicmenu {
+		padding-top:10px;
+	}
+	
+	#topicmenu ul{
+		padding:0;
+		margin:0;
+	}
+	
+	#topicmenu li{
+		background-color:#6B0606;
+		color:white;
+		float:left;
+		list-style:none;
+		border-right:1px solid #BB1919;
+		padding:5px;
+		font-size:0.8em;
+	}
+		
+	.selected {
+		background-color:#FDF0F0 !important;
+		color:#ABA8A8 !important;
+		height:15px;
+		top:-2px;
+		padding-top:8px !important;
+		position:relative;
+	}
+	
+	#content {
+		color:#535353;
+		width:100%;
+		height:85px;
+		font-size:.8em;
+	}
+	
+	.date{
+		font-weight:bold;
+	}
+	
+	h1 {
+		color: #1F4F82;
+		font-size:3em;
+	}
+	.headlinimg {
+		float:left;
+	}
+	
+	.headlinetxt {
+		position:relative;
+		left:10px;
+		width:30%;
+		float: left;
+		text-decoration: none;
+	}
+	.headlinetxt a{
+		color:red;
+		text-decoration: none;
+		padding-left:100px;
+	}
+	.headlinetxt a:hover {
+		text-decoration: underline;
+		padding-left:100px;
+	}
+	
+	.video {
+		opacity: 0.8;
+		background-image:url("images/th3.png");
+		background-repeat:no-repeat;
+		background-position:left;
+		padding-left:10px;
+		size:auto;
+		
+	}
+		#watchlist {
+			position:relative;
+			top:-90px;
+			background-color:#EEEEEE;
+			float:right;
+			width:350px;
+		}
+	h2 {
+		color:#505050;
+		margin:10px 0 10px 20px;
+		font-size:1.5em;
+	}

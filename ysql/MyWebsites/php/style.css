@@ -1,0 +1,52 @@
+html, body {
+			height:100%;
+		}
+		.container{
+			background-image:url("background.jpg");
+			height:100%;
+			width:100%;
+			background-size:cover;
+			background-position:center;
+			padding-top:150px;
+		}
+		
+		.row{
+			padding:10px;
+		}
+		
+		h1 {
+			font-size:6em;
+		}
+		
+		.lead {
+			font-size:1.6em;
+		}
+		
+		.form-group{
+			padding-top:50px;
+		}
+		
+		#city{
+			font-size:1.8em;
+		}
+		
+		#citySearch{
+			padding:0;
+			font-size:1.6em;
+		}
+		
+		.search{
+			font-size:1.2em;
+			margin-left:8px;
+			height:40px;
+		}
+		
+		#alert{
+			margin-top:10px;
+			display:none;
+		}
+		
+		#alert2{
+			margin-top:10px;
+			display:none;
+		}

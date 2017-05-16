@@ -1,0 +1,82 @@
+<?php
+	if(isset($_POST["submit"])){
+		$from = $_POST['mail'];
+		$betreff = $_POST['betreff'];
+		$msg = $_POST['inhalt'];
+		}
+		
+		if ($from == ""){
+			$error="Plz enter an Mail adress";
+			}
+			
+		if ($betreff == ""){
+			$error.="Plz enter an Betreff";
+			}
+			
+		if ($msg == ""){
+			$error.="Plz enter an Message";
+			}
+		
+		if($error){
+			$result='<div><strong>There were error(s) in your form:</strong>.$error.</div>';
+			}
+			else{
+			if(mail("felixeisenmenger@gmx.net, $betreff, $msg, $from"){
+				$result='<div><strong>Thank you for your Mail</strong></div>';
+			} else{
+				$result='<div><strong>There was an error sending your Mail</strong></div>';
+				}
+				
+				
+?>
+
+<!DOCTYPE>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title></title>
+	
+	<style>
+		.inhalt{
+			margin-top:10px;
+			margin-left:25px;
+			width:220px;
+			height:120px;
+		}
+		
+		.mail{
+			width:220px;
+			padding:5px;
+		}
+		
+		.betr{
+			width:220px;
+			padding:5px;
+			margin-top:10px;
+			margin-left:48px;
+		}
+		
+		.btn{
+			margin-top:10px;
+			margin-left:100px;
+		}
+	</style>
+	
+</head>
+</body>
+	<h1>Contact Me</h1>
+	<form action="" method="POST">
+	<label for="mail">eMail Adresse</label>
+	<input class="mail" type="email" name="mail" value="" />
+	<br />
+	<label for="betreff">Betreff</label>
+	<input class="betr" type="text" name="betreff" value="" />
+	<br />
+	<label for="inhalt">Nachricht:</label>
+		<textarea class="inhalt" type="text" name="inhalt" ></textarea>
+	<br />
+	<input class="btn" type="submit" name="submit" value="Senden">
+	
+	</form>
+</body>
+</html>

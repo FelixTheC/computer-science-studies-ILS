@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	
+</head>
+<body>
+		<p>How many Fingers am I holding up</p>
+		<input id="answer" type="text" />
+		<button id="submit">Submit</button>
+		<script type="text/javascript">
+		
+			document.getElementById("submit").onclick=function(){
+				var x = Math.random();
+				x= 6*x;
+				x=Math.floor(x);
+				var answer = document.getElementById("answer").value;
+					if (answer > 5) {
+						alert("My Hand has only 5 Fingers");
+						}
+				if( x > answer) {
+					alert("Sorry You Lost my Number was "+x);
+					}
+				else {
+				alert("Gratulation You Win");
+				}
+			}
+		</script>
+		
+</body>
+</html>

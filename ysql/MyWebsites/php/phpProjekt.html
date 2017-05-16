@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ger">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">    
+    <title></title>
+    <link href="bootstrapStyle/css/bootstrap.min.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 col-md-offset-3">
+				<h1><span><strong>Weather Scraper</strong></span></h1>
+				<p class="lead">Enter your City below to get the weather</p>
+				<form class="form-inline">
+					<div class="form-group">
+						<label for="city" id="city">City:</label>
+						<input id="citySearch" name="city" type="text" placeholder="Berlin" class="from-control"/>
+					</div>
+					<div class="form-group">
+						<button id="find" name="submit" class="btn btn-success search">Search</button>
+					</div>
+				</form>
+				<div id="alert" class="alert alert-success"></div>
+				<div id="alert2" class="alert alert-warning"></div>
+			</div>			
+		</div>
+	</div>
+
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>    
+    <script src="bootstrapStyle/js/bootstrap.min.js"></script>
+	<script>
+	
+		$("#find").click(function(event){
+			event.preventDefault();
+			
+			if ($("#citySearch").val()!=""){
+				$.get("index2.php?city="+$("#citySearch").val(), function(data){
+					$("#alert").html(data).fadeIn();
+					$("#alert2").hide();				
+						if(data==""){
+							$("#alert2").html("this city is unknown").fadeIn();
+						}
+				});
+			} else{	
+				$("#alert2").html("plz enter a city").fadeIn();
+				$("#alert").hide();
+			}
+		});
+	</script>
+  </body>
+</html>

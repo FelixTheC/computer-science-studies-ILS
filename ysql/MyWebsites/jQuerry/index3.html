@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Learning jQuerry</title>
+	<style>
+		
+	</style>
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js">
+	
+	</script>
+	
+</head>
+<body>
+		<p id="txt">This is some Text</p>
+		<button id="btn">Button</button>
+		<button id="btnIn">Button-In</button>
+	
+	<script>
+		$("#btn").click(function(){
+			//$("#txt").fadeOut();
+			
+			$("#txt").fadeOut("slow", function(){
+			
+				alert("FadeOut Complete");
+			
+			});
+			
+		});
+		
+		$("#btnIn").click(function(){
+		
+			$("#txt").fadeIn();
+		
+		});
+	</script>
+	
+</body>
+</html>

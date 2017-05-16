@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Learning jQuerry</title>
+	<style>
+		.square{
+			width:250px;
+			height:250px;
+			background-color:red;
+			margin-top:10px;
+			}
+			
+		#circle{
+			background-color:green;
+			border-radius:100px;
+			width:200px;
+			height:200px;
+			margin-top:10px;
+			}
+	</style>
+	
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js">
+	
+	</script>
+	
+</head>
+<body>
+	<div class="square"></div>
+	<div id="circle"></div>
+	<div class="square"></div>
+	
+	<script>
+		$("#circle").click(function() {
+		
+			$(".square").fadeOut();
+		
+		});
+		
+		$("div").click(function() {
+		
+			//$(this).hide(); oder $(this).fadeOut();
+			//$(this).css("display", "none");
+		
+		});
+	</script>
+	
+</body>
+</html>

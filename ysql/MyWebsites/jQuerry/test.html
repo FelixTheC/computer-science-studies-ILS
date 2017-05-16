@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<title>Learning jQuerry</title>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.12.0.min.js">
+	</script>
+    
+	
+</head>
+<body>
+    <form>
+    <select id="select" name="cars">
+      <option value="volvo">Volvo</option>
+      <option value="saab">Saab</option>
+      <option value="fiat">Fiat</option>
+      <option value="audi">Audi</option>
+    </select>
+    </form>
+    <br/>
+    <button id="test">Test</button>
+    <br/>
+    <p id="lecture">Volvo</p>
+    <p id="le">Auto</p>
+    <br/>
+    <button id="url">Url</button>
+    <p id="testurl">Auto</p>
+<script>
+    $(document).ready(function(){
+            
+        $("#test").click(function(e){
+            var text = "audi";
+            te2xt = $("#select").text().split(" ");
+            //$.each(te2xt, function(key, value){
+               if($.inArray(text, te2xt)){
+                $("#le").text($("#select").val());
+            }else{
+                     $("#le").text(te2xt);    
+                         }                
+            //});
+            
+        });
+       
+        $("#test").click(function(e){
+        var helper = $("#lecture").text();
+        //$("#lecture").text($("#le").text();
+         //$("#le").text(helper);
+        
+        //$("#le").text(window.location.href.replace("#"+test, "#wasanderes"));
+        //window.location.pathname.text("#wasanderes");
+             
+            });
+        
+        $("#url").click(function(e){
+            var test =  window.location.hash.slice('1');
+            $("#testurl").text(test);
+            
+            window.location.hash="www.google.com";
+            //var test =  window.location.href.slice(window.location.href.indexOf('#') + 1);
+            //window.location..href(window.location.href.replace("#"+test, "#wasanderes")));
+        });
+            
+     });
+</script> 
+   
+</body>
+</html>
